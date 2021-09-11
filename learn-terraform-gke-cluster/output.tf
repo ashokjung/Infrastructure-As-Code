@@ -1,3 +1,4 @@
+#output file
 output "cluster" {
   description = "Cluster resource."
   sensitive   = true
